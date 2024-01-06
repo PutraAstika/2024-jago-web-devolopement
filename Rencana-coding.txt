@@ -4,6 +4,7 @@ RENCANA CODING 2024
   * ES6
   * Framework Javascript
     ^ Vue
+    ^ React
 - Melatih problem solving
 - Belajar HTML
   ^ Web
