@@ -3,9 +3,11 @@ RENCANA CODING 2024
 - Belajar Javascript
   * ES6
   * Framework Javascript
-    ^ Angular
+    ^ Vue
     ^ React
+- Melatih problem solving
 - Belajar HTML
   ^ Web
 - Belajar CSS
 - Belajar GIT dan GitHub
+- Python
