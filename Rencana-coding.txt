@@ -1,0 +1,6 @@
+RENCANA CODING 2024
+
+- Belajar Javascript
+- Belajar HTML
+- Belajar CSS
+- Belajar GIT dan GitHub
