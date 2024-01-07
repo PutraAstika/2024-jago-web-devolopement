@@ -5,6 +5,7 @@ RENCANA CODING 2024
   * Framework Javascript
     ^ Vue
     ^ React
+    ^ Angular
 - Melatih problem solving
 - Belajar HTML
   ^ Web
